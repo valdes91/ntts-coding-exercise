@@ -2,7 +2,11 @@
 
 A coding challenge that fetches data from a URL and organizes selected data into charts using chart.js
 
-To use the web app on your computer:
+## To view the app
+
+visit the deployed [heroku app](https://ntts-exercise.herokuapp.com/)
+
+## To use the web app on your computer:
 
 1. Clone the repository to your local machine
 2. Run `npm install`
